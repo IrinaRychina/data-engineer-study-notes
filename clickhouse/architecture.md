@@ -92,3 +92,11 @@ What design choices in ClickHouse make it particularly fast for analytical queri
 What performance bottlenecks is ClickHouse architected to avoid?
 
 What assumptions about the workload does ClickHouse make to optimize performance?
+
+что такое разряженный индекс?
+
+в каком типе данных лучше хранить данные в кликхаус?
+
+Какие особенности типа данных Array в отличие от Array в некоторых языках?
+
+какие есть дивжки при создании таблицы и чем они отличаются?
